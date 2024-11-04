@@ -1,0 +1,14 @@
+Pratos:
+P001, Lasanha 1, 25.00
+P002, Macarronada 2, 30.00
+P003, Feijoada 3, 20.00
+
+Sobremesas:
+S001, Mousse 1, 10.00
+S002, Sorvete 2, 12.00
+S003, Salada de Frutas  3, 8.00
+
+Bebidas:
+B001, Refrigerante 1, 5.00
+B002, Agua 2, 7.00
+B003, Suco 3, 6.00

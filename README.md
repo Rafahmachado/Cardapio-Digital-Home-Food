@@ -1,4 +1,4 @@
-# Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados. Ele utiliza diversos conceitos abordados durante o curso
+## Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados. Ele utiliza diversos conceitos abordados durante o curso
 
 
 
